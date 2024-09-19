@@ -52,9 +52,5 @@ include_once plugin_dir_path(__FILE__) . 'functions/rbp-client.php';
     }}
 
 
-
-
-
-
-
 ?>
+
