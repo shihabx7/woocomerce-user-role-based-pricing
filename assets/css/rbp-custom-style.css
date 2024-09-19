@@ -1,0 +1,30 @@
+/* assets/rbp-style.css */
+.customer-pricing {
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+.customer-pricing .form-field {
+  margin-bottom: 10px;
+}
+
+.customer-pricing .form-field label {
+  font-weight: bold;
+}
+
+#add_customer_pricing_button {
+  margin-bottom: 15px;
+}
+
+.wc_rpb_heading {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.options_group.rbp-var-pricing-box {
+  width: 100% !important;
+  display: block !important;
+  clear: both !important;
+}
