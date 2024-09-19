@@ -4,6 +4,9 @@ Plugin Name: WooCommerce Customer Role-Based Pricing
 Description: A WooCommerce plugin to product prices based on user roles.
 Version: 1.1.1
 Author:  Md ziaul Haque 
+Author URI: https://dgency.com/our-team/
+License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 ob_start();
 // Prevent direct access
